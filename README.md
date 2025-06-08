@@ -1,5 +1,5 @@
 # `lower`
-> make the web lower their voice a little
+> ask the web to lower their voice a little
 
 ## usage
 1. download the repo
