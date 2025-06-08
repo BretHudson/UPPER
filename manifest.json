@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "lower",
-  "description": "quiet things down a little",
+  "description": "make the web lower their voice a little",
   "version": "1",
   "icons": {
     "128": "icon-128.png"
